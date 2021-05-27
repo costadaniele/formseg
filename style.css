@@ -8,7 +8,6 @@ body {
 
 .contact-form{
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
   margin: 50px auto;
   width: 400px;
   text-align: center;
@@ -27,7 +26,6 @@ body {
   width: 90%;
   margin: 10px auto;
   padding: 10px;
-  border-radius: 6px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -36,7 +34,6 @@ body {
   margin: 5px auto;
   padding-left: 10px;
   height: 80px;
-  border-radius: 6px;
   font-family: 'Montserrat', sans-serif;
 }
 

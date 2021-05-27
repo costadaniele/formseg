@@ -43,7 +43,7 @@
                         "Mensagem: $user_message.\n";
 
 
-          $to_email = "daniele.costa3@fatec.gov.sp.br";
+          $to_email = "santoscostadaniele@gmail.com";
           $headers = "From: $email_from \r\n";
           $headers .= "Reply-To: $user_email \r\n";
 
